@@ -1,5 +1,5 @@
 language: c
 script: ./build.sh
 env:
-	- JHL="jhlhongliang"
+	- JHL=jhlhongliang
 
