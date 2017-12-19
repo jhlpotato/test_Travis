@@ -1,2 +1,2 @@
 language: c
-script: ./test_Travis/build.sh
+script: make
